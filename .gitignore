@@ -9,3 +9,5 @@ __pycache__/
 /data/
 /datasets_s/
 /output/
+/taxonomy/
+/configs/
