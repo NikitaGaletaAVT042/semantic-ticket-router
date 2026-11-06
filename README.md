@@ -1,0 +1,1 @@
+taxonomy JSON → карточки тем → эмбеддинги карточек → входное обращение → эмбеддинг обращения → scoring → decision → output JSON/CSV
